@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/KDV5qBRA)
+vvv[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/KDV5qBRA)
 # 泰山職訓前端班期中作業
 請學員製作⼀個查詢公開資料的 LINE 機器⼈，並部署到 [render.com](https://render.com/) 雲端伺服器  
 可使⽤ Google API、[政府開放資料](https://data.gov.tw/)等資料來源  
@@ -28,4 +28,4 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [儲存庫](https://github.com/)
+- [儲存庫]([https://github.com/](https://github.com/ste85216/linebot14))
