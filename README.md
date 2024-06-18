@@ -28,4 +28,4 @@ vvv[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-r
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [儲存庫]([https://github.com/](https://github.com/ste85216/linebot14))
+- [儲存庫](https://github.com/ste85216/linebot14)
